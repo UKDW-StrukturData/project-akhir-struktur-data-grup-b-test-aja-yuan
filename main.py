@@ -4,6 +4,6 @@ st.title('Ini akan live di streamlit.app')
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image('tiukdw.jpg', width=100)
+    st.image('tiukdw.jpg')
 with col2:
-    st.image('logo-ukdw.png', width=100)
+    st.image('logo-ukdw.png')
